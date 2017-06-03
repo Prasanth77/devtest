@@ -1,1 +1,2 @@
-hai fist upload to git
+adding first line to file
+adding second line to file
